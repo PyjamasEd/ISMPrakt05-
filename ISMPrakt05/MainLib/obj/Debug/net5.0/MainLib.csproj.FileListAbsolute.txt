@@ -1,0 +1,12 @@
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\bin\Debug\net5.0\MainLib.deps.json
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\bin\Debug\net5.0\MainLib.dll
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\bin\Debug\net5.0\ref\MainLib.dll
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\bin\Debug\net5.0\MainLib.pdb
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\obj\Debug\net5.0\MainLib.csproj.AssemblyReference.cache
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\obj\Debug\net5.0\MainLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\obj\Debug\net5.0\MainLib.AssemblyInfoInputs.cache
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\obj\Debug\net5.0\MainLib.AssemblyInfo.cs
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\obj\Debug\net5.0\MainLib.csproj.CoreCompileInputs.cache
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\obj\Debug\net5.0\MainLib.dll
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\obj\Debug\net5.0\ref\MainLib.dll
+C:\Users\pyjam\source\repos\ISMPrakt05\MainLib\obj\Debug\net5.0\MainLib.pdb
